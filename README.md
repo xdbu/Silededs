@@ -1,6 +1,6 @@
 ![Silededs](https://img.shields.io/badge/Silededs-by%20YoannCHVL-cyan?style=for-the-badge)
 
-# 👤 Silededs - Fake Profile & Bio Generator
+# 👤 Silededs - Fake Profile / Identity Generator
 
 Generate fictional French profiles with avatars, realistics bios and complete personal information in just a few seconds.
 
