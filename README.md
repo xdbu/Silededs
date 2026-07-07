@@ -40,10 +40,10 @@ This tool generates:
 ## 📦 Requirements
 
 * Python 3.9+
-* requests
+* Requests
 * Pillow
 * Faker
-* colorama
+* Colorama
 
 Install everything with:
 
@@ -68,6 +68,7 @@ python main.py
 * Faker
 * Pillow
 * Requests
+* Colorama
 * Unsplash Metadata
 * Visual Genome Dataset
 
@@ -77,8 +78,8 @@ This project was **vibecoded** by **YoannCHVL**, I was so lazy but still wanted 
 
 ## ✨ Contact
 
-Discord: **wdx0**
 If you have any questions, recommandations.. feel free to DM me !
+Discord: **wdx0**
 
 ---
 
@@ -96,4 +97,5 @@ If you have any questions, recommandations.. feel free to DM me !
 
 `0x0974f67183C7e3C3FeE622B2EfE255090F83157b`
 
-© 2026 YoannCHVL. All rights reserved.
+
+## © 2026 YoannCHVL. All rights reserved.
