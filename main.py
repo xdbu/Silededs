@@ -435,7 +435,7 @@ def bio_menu():
     clear_screen()
     print(BANNER)
     print(f"\n{Fore.CYAN}╔════════════════════════════════════════╗")
-    print(f"{Fore.CYAN}║{Fore.YELLOW}      REALISTIC BIO GENERATOR           {Fore.CYAN}║")
+    print(f"{Fore.CYAN}║{Fore.YELLOW}       REALISTIC BIO GENERATOR          {Fore.CYAN}║")
     print(f"{Fore.CYAN}╚════════════════════════════════════════╝")
     try:
         count = int(input(f"{Fore.WHITE}Number of bios to generate : {Fore.YELLOW}"))
@@ -460,7 +460,7 @@ def profile_menu():
     clear_screen()
     print(BANNER)
     print(f"\n{Fore.CYAN}╔════════════════════════════════════════╗")
-    print(f"{Fore.CYAN}║{Fore.YELLOW}      PROFILE GENERATOR                 {Fore.CYAN}║")
+    print(f"{Fore.CYAN}║{Fore.YELLOW}       PROFILE GENERATOR                {Fore.CYAN}║")
     print(f"{Fore.CYAN}╚════════════════════════════════════════╝")
 
     # Check for required input files
